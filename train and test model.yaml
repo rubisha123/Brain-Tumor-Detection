@@ -1,0 +1,7 @@
+dataset/
+  yes/
+    image1.jpg
+    image2.jpg
+  no/
+    image1.jpg
+    image2.jpg
